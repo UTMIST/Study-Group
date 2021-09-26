@@ -13,6 +13,7 @@ Loss functions
 
 Activation functions
 - https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6 
+- https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/ 
 
 Gradient descent
 - https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3 
