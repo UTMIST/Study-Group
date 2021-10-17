@@ -17,6 +17,8 @@ Activation functions
 
 Gradient descent
 - https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3 
+- https://medium.com/analytics-vidhya/derivative-of-log-loss-function-for-logistic-regression-9b832f025c2d
+- https://math.stackexchange.com/questions/477207/derivative-of-cost-function-for-logistic-regression
 
 Regularization
 - https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a 
