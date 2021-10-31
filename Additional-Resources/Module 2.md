@@ -1,5 +1,8 @@
 # Topics & Resources
 
+Neural Networks
+- https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
 Multi-layer perceptron (MLP): layers, neurons, back-propagation
 - https://www.educative.io/edpresso/what-is-a-multi-layered-perceptron
 - https://towardsdatascience.com/multilayer-perceptron-explained-with-a-real-life-example-and-python-code-sentiment-analysis-cb408ee93141
@@ -13,3 +16,4 @@ Keras
 
 Deep Learning
 - https://machinelearningmastery.com/what-is-deep-learning/ 
+- https://www.deeplearningbook.org/
