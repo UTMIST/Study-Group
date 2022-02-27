@@ -20,3 +20,7 @@ CNN architectures
 
 Transfer learning
 - https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a 
+
+Hands-On Tutorials
+- https://www.tensorflow.org/tutorials/images/cnn
+- https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529#:~:text=Examples%20of%20CNN%20in%20computer,i.e%2C%20weights%2C%20biases%20etc.
