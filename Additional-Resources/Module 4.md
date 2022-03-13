@@ -18,6 +18,9 @@ Word embeddings
 - https://machinelearningmastery.com/what-are-word-embeddings/
 
 Generative adversarial networks
+- https://developers.google.com/machine-learning/gan
+- https://realpython.com/generative-adversarial-networks/
+- https://www.tensorflow.org/tutorials/generative/dcgan
 - https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29
 - https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/
 - https://wiki.pathmind.com/generative-adversarial-network-gan 
