@@ -6,6 +6,10 @@ Unsupervised learning
 Autoencoders
 - https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798 
 
+Denoising autoencoders
+- https://www.tensorflow.org/tutorials/generative/autoencoder#define_a_convolutional_autoencoder
+- https://keras.io/examples/vision/autoencoder/
+
 Natural language processing
 - https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1 
 
