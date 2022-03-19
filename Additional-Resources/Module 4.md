@@ -13,6 +13,7 @@ Denoising autoencoders
 Variational autoencoders
 - https://www.tensorflow.org/tutorials/generative/cvae
 - https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf
+- https://www.jeremyjordan.me/variational-autoencoders/
 
 Natural language processing
 - https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1 
