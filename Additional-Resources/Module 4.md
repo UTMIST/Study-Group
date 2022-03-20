@@ -5,6 +5,7 @@ Unsupervised learning
 
 Autoencoders
 - https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798 
+- https://www.jeremyjordan.me/autoencoders/
 
 Denoising autoencoders
 - https://www.tensorflow.org/tutorials/generative/autoencoder#define_a_convolutional_autoencoder
